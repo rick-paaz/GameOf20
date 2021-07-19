@@ -64,12 +64,11 @@ public class GameTree {
     // TODO: Complete this method
   }
 
-  // Return true if getCurrent() returns an answer rather than a question. Return
-  // False
-  // if the current node is an internal node rather than an answer at a leaf.
+  // Return true if getCurrent() is an answer rather than a question. Return false
+  // if the current node is an internal node rather than a leaf that is an answer.
   public boolean foundAnswer() {
     // TODO: Complete this method
-    return !false;
+    return ! false;
   }
 
   // Return the data for the current node, which could be a
