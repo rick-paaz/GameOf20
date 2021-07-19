@@ -2,8 +2,8 @@ package model;
 
 import java.util.Scanner;
 
-// A model for the game of 20 questions. This type can be used to build a 
-// console based game of 20 questions or a GUI based game.
+// A model for the game of 20 questions. This type can be used to
+// build a console based game of 20 questions or a GUI based game.
 //
 // @author Rick Mercer and YOUR NAME
 //
