@@ -43,7 +43,7 @@ public class GameTree {
   //
   public GameTree(String name) {
     // TODO: Complete this constructor. Remember, this needs a try/catch to
-    // open the file and a call to the build method code demoped in class.
+    // open the file and a call to the build method code demoed in class.
     root = null;
   }
 
